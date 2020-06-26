@@ -2,7 +2,7 @@
 #...in cases where need to overwrite whole table
 #   (in order to not duplicate rows/get stuff out of sync if nested/multivalue-table)
 
-# install.packages("tidyr")  # uncomment if not already installed
+## install.packages("tidyr")  # uncomment if not already installed
 library("tidyr")
 
 # point to your csv's directory
